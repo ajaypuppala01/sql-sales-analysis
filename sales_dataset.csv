@@ -1,0 +1,11 @@
+order_id,customer_name,region,amount,order_date
+1,John Smith,USA,1200,2025-01-15
+2,Emily Davis,USA,800,2025-01-20
+3,Michael Brown,IND,600,2025-02-05
+4,Sarah Wilson,IND,1500,2025-02-18
+5,David Lee,USA,2000,2025-03-02
+6,Anna Taylor,GBR,950,2025-03-10
+7,Chris Evans,GBR,700,2025-03-15
+8,Olivia Clark,USA,1300,2025-04-01
+9,Daniel Hall,IND,1100,2025-04-12
+10,Sophia Allen,USA,1700,2025-04-25
